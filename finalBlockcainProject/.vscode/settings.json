@@ -1,0 +1,7 @@
+{
+  "eslint.workingDirectories": [
+    "src"
+  ],
+  "liveServer.settings.port": 5501,
+  "solidity.defaultCompiler": "localNodeModule"
+}
